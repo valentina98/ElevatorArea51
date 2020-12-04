@@ -1,0 +1,12 @@
+D:\documents\STD\ParallelProgramming\ElevatorArea51\ElevatorArea51\bin\Debug\netcoreapp3.1\ElevatorArea51.exe
+D:\documents\STD\ParallelProgramming\ElevatorArea51\ElevatorArea51\bin\Debug\netcoreapp3.1\ElevatorArea51.deps.json
+D:\documents\STD\ParallelProgramming\ElevatorArea51\ElevatorArea51\bin\Debug\netcoreapp3.1\ElevatorArea51.runtimeconfig.json
+D:\documents\STD\ParallelProgramming\ElevatorArea51\ElevatorArea51\bin\Debug\netcoreapp3.1\ElevatorArea51.runtimeconfig.dev.json
+D:\documents\STD\ParallelProgramming\ElevatorArea51\ElevatorArea51\bin\Debug\netcoreapp3.1\ElevatorArea51.dll
+D:\documents\STD\ParallelProgramming\ElevatorArea51\ElevatorArea51\bin\Debug\netcoreapp3.1\ElevatorArea51.pdb
+D:\documents\STD\ParallelProgramming\ElevatorArea51\ElevatorArea51\obj\Debug\netcoreapp3.1\ElevatorArea51.AssemblyInfoInputs.cache
+D:\documents\STD\ParallelProgramming\ElevatorArea51\ElevatorArea51\obj\Debug\netcoreapp3.1\ElevatorArea51.AssemblyInfo.cs
+D:\documents\STD\ParallelProgramming\ElevatorArea51\ElevatorArea51\obj\Debug\netcoreapp3.1\ElevatorArea51.csproj.CoreCompileInputs.cache
+D:\documents\STD\ParallelProgramming\ElevatorArea51\ElevatorArea51\obj\Debug\netcoreapp3.1\ElevatorArea51.dll
+D:\documents\STD\ParallelProgramming\ElevatorArea51\ElevatorArea51\obj\Debug\netcoreapp3.1\ElevatorArea51.pdb
+D:\documents\STD\ParallelProgramming\ElevatorArea51\ElevatorArea51\obj\Debug\netcoreapp3.1\ElevatorArea51.genruntimeconfig.cache

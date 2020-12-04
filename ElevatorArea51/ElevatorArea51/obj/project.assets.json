@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\documents\\STD\\ParallelProgramming\\ElevatorArea51\\ElevatorArea51\\ElevatorArea51.csproj",
+      "projectUniqueName": "D:\\documents\\GitHub\\ElevatorArea51\\ElevatorArea51\\ElevatorArea51\\ElevatorArea51.csproj",
       "projectName": "ElevatorArea51",
-      "projectPath": "D:\\documents\\STD\\ParallelProgramming\\ElevatorArea51\\ElevatorArea51\\ElevatorArea51.csproj",
+      "projectPath": "D:\\documents\\GitHub\\ElevatorArea51\\ElevatorArea51\\ElevatorArea51\\ElevatorArea51.csproj",
       "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-      "outputPath": "D:\\documents\\STD\\ParallelProgramming\\ElevatorArea51\\ElevatorArea51\\obj\\",
+      "outputPath": "D:\\documents\\GitHub\\ElevatorArea51\\ElevatorArea51\\ElevatorArea51\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

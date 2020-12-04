@@ -113,13 +113,13 @@ namespace ElevatorArea51
 
             return randomWorkDecision;
         }
-        /* start a thread which executes function Work() */
+        /* start a thread which executes methodd Work() */
         public void SaveTheWorld()
         {
             Thread t = new Thread(Work);
             t.Start();
         }
-        /* the function will not return response untill eventLeftWork is set for this agent */
+        /* the method will not return response untill eventLeftWork is set for this agent */
         public bool HasLeft
         {
             get

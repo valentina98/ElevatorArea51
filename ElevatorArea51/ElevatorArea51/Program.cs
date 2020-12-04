@@ -11,11 +11,13 @@ namespace ElevatorArea51
     /// when they go to another floor they use the elevator
     /// the elevator has maximum seats allowing maximum threads to use it at a time
     /// more than one agent can enter 
+    /// the elevator has speed 1second per floor set by default
     /// when the elevator is mooving, moving is locked until it reaches the destination floor
-    /// other fields and methods of the elevator can still be used
+    /// other properties and methods of the elevator can still be used
     /// agents have different levels of security so their acces to floor might be denied
     /// in this case they choose another floor
-    /// when an agent sets his/her event eventLeftWork, function HasLeft returns response
+    /// if agents with differet security levels are in the elevator, security checks all of them before the door is opened
+    /// when an agent sets his/her event eventLeftWork, method HasLeft returns response
     /// when all agents return response that they left, show is over
     /// </summary>
     class Program
